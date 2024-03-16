@@ -1,0 +1,5 @@
+Main-class: ssh325
+Class-Path: ojdbc8.jar   
+
+
+                                                                                                                                                                    
