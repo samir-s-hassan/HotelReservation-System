@@ -31,6 +31,8 @@ N/A
 
 ## Notes
 
+I do have two separate READMEs. This current one is the short, concise project README. While, the README.txt exists as a more detailed documentation for everything regarding this project.
+
 Unfortunately, the server that hosted the backend no longer holds the database that I built this project on. I am working on moving all the data into another database. I can then modify the source code with the new database connection and get the project up and running again -> WORK IN PROGRESS
 
 If you browse through this repository, you can read on a lot of the conceptual and creative decisions that went into this project. This is a Database-forward project in which I was focusing on making a perfect Database that would make the most sense for a Hotel reservation system. 
