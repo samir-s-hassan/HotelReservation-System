@@ -1,6 +1,8 @@
 # Hotel Reservation System
 
-Hotel Reservation System is a command-line app that facilitates booking experiences for customers, allowing them to reserve rooms for future dates. It provides an interface for front desk agents to efficiently manage check-ins and check-outs, as well as for housekeeping staff to monitor room status and cleanliness. Customers can view available room options with its respective room numbers and base rates. Payment options include both dollar and points rates, with a redemption process for customer points.
+Hotel Reservation System is a command-line app that facilitates booking experiences for customers, allowing them to reserve rooms for hotel stays. The application has interfaces for customers, front-desk agents, and a housekeeping staff. The interface for front desk agents allow them to manage check-ins and check-outs while the housekeeping staff interface allows them to monitor room status and cleanliness. 
+
+Within their interface, customers can view available room options with their respective room numbers and base rates. Though, the base rate isn't the final price as the price is dependent on the season and time of the booking. Payment options include both dollar and points rates, with a redemption process for customer points.
 
 ## Required Features
 
@@ -19,7 +21,7 @@ The following functionality is completed:
 1. Within the ssh325/ directory, run the makefile with "make"
 2. There will now be a jar file compiled, which we can run with "java -jar ssh325.jar"
 3. This should run the project, Use the app! OR
-4. I also provided an already compiled jar version within the root directory named "ssh325.jar"
+4. I provided an already compiled jar version within the root directory named "ssh325.jar"
 5. We can run this with "java -jar ssh325.jar"
 6. Use the app!
 
@@ -29,7 +31,7 @@ N/A
 
 ## Notes
 
-Unfortunately, the server that hosted the backend no longer holds the database that I built this project on. I am working on moving all the data into another database. I can then modify the source code with the new database connection and get the project up and running again. 
+Unfortunately, the server that hosted the backend no longer holds the database that I built this project on. I am working on moving all the data into another database. I can then modify the source code with the new database connection and get the project up and running again -> WORK IN PROGRESS
 
 If you browse through this repository, you can read on a lot of the conceptual and creative decisions that went into this project. This is a Database-forward project in which I was focusing on making a perfect Database that would make the most sense for a Hotel reservation system. 
 
